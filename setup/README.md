@@ -127,7 +127,7 @@ Navigate to the [Archon App Download](https://archon.gg/download/) page and down
 
 ![Archon App Download](resources/archon_download.png)
 
-Find the `Archon App` install application in your downloads and run it. The application will ask you whether to install for all users or just yourself. Click on the **Install** button after selecting your choice then **Finish** once the installation is done.
+Find the `Archon App` installer in your downloads and run it. The application will ask you whether to install for all users or just yourself. Click on the **Install** button after selecting your choice then **Finish** once the installation is done.
 
 ![Archon App Installation Wizard](resources/install_archon.png)
 
@@ -135,7 +135,7 @@ Find the `Archon App` install application in your downloads and run it. The appl
 
 *Note: You will need to [register](https://www.fflogs.com/register/) for an FFLogs account in order to upload logs.*
 
-Run the Archon App. Select Final Fantasy in the top game selector, then enter the account information you used to sign up. Once you are authenticated, click on the **Upload a Log** button.
+Run the Archon App. Select Final Fantasy in the game selector at the top of the application, then enter the account information you used to sign up. Once you are authenticated, click on the **Upload a Log** button.
 
 ![Upload a Log Button](resources/upload_log.png)
 
