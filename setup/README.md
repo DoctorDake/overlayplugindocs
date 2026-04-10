@@ -15,7 +15,8 @@ This guide is intended to get a FFXIV player setup with ACT and an overlay for p
 - [Adding an Overlay](#adding-an-overlay)
   - [Preset Overlays](#preset-overlays)
   - [Custom Overlays](#custom-overlays)
-- [Archon App](#archon-app)
+- [Archon App](#archon-app) (formerly FFLogs Uploader)
+  - [FFLogs Uploader is deprecated](#fflogs-uploader-deprecated)
   - [Installing the Archon App](#installing-the-app)
   - [Uploading a Log](#uploading-a-log)
 
@@ -120,6 +121,9 @@ In the overlay settings, make sure to add the overlay **URL** source. It can be 
 ![URL Field](resources/overlay_url.png)
 
 ## Archon App
+
+### FFLogs Uploader deprecated
+The FFLogs Uploader has been deprecated as of March 10, 2026. You can upgrade your client to the new Archon App from inside the existing app. It still works similarly, the only major difference is the need to select Final Fantasy XIV in the game selector on the top bar the first time you launch it since the app now includes support for multiple MMOs.
 
 ### Installing the App
 
